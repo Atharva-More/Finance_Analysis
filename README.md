@@ -24,4 +24,4 @@ Conducting a detailed analysis of a finance dataset involves:
 
 10. **Visualization and Reporting:** Create clear visualizations and reports summarizing key findings for stakeholders.
 
-This analysis provides insights crucial for strategic decision-making, risk management, and financial planning.
+This analysis provides insights crucial for strategic decision-making, risk management, and financial planning and featue engineer
